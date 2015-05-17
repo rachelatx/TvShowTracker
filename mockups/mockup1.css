@@ -1,0 +1,40 @@
+body {
+  font: 14px Arial, Helvetica, sans-serif;
+  margin: 0px;
+}
+
+#top-title-bar {
+  background-color: #123652;
+  color: #718EA4;
+  font-size: 36px;
+  font-weight: bold;
+  padding: 5px;
+  position: fixed;
+  text-align: center;
+  top: 0px;
+  width: 100%;
+}
+
+#main-content {
+  margin: 65px auto;
+  width: 80%;
+}
+
+table {
+  border-spacing: 0px 4px;
+  width: 100%;
+}
+
+tr#table-header {
+  background-color: #718EA4;
+  color: #042037;
+  text-align: left;
+}
+
+tr {
+  background-color: #DDDDDD;
+}
+
+td {
+  padding: 4px;
+}
